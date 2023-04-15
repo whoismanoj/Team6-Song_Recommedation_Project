@@ -36,7 +36,7 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 4. Plotly.express
 
-5. KMeans & PCA
+5. KMeans & Principal Component Analysis (PCA)
 
 6. Cosine_similarity
 
