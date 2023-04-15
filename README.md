@@ -46,7 +46,7 @@ Pending Updates
 
 Pending Updates
 
-# Folder Contents Breakdown for PT1 - Team 6
+# Content Breakdown for Team 6 - Project Folder
 
 Pending Updates
 
