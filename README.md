@@ -16,9 +16,9 @@ The dataset as well as data description is contained in the repository as well.
 
 # Contributors
 
-1. Ng Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
+1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
 
-2. Muhammad Nurhidayat Bin Suderman - Machine Learning + Prediction
+2. Nurhidayat - Machine Learning + Prediction
 
 # Problem Statement & Aim of Project
 
