@@ -4,7 +4,7 @@
 
 This is the repository containing the work done for SC1015 Miniproject which focus on the recommendation of songs to users based on what they are looking for.
 
-![image](https://user-images.githubusercontent.com/129975594/232229585-94fac098-855b-4859-af12-c5fd2c5e5a7e.png)
+![image](https://user-images.githubusercontent.com/129975594/232229889-c995f7c2-9578-46f5-98e6-6efec064454e.png)
 
 # Dataset
 
