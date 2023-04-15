@@ -1,5 +1,14 @@
 # Song_Recommedation_Project
 
+# About
+
+This is the repository containing the work done for SC1015 Miniproject which focus on the recommendation of songs to users based on what they are looking for.
+
+# Dataset
+
+The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. 
+URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+
 # References
 
 1. https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/
