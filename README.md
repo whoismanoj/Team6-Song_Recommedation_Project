@@ -50,6 +50,8 @@ Pending Updates
 
 # Folder Contents Breakdown for PT1 - Team 6
 
+Pending Updates
+
 # References
 
 1. https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/
