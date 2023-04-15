@@ -40,6 +40,16 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 6. Count Vectorisation & Cosine Similarity
 
+# Conclusion
+
+Pending Updates
+
+# Learning Outcomes
+
+Pending Updates
+
+# Folder Contents Breakdown for PT1 - Team 6
+
 # References
 
 1. https://www.geeksforgeeks.org/apply-function-to-every-row-in-a-pandas-dataframe/
