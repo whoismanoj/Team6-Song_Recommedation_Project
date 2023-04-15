@@ -1,4 +1,4 @@
-# Welcome to Repository for Team 6's Song Recommedation Project
+# Welcome to Repository for Song Recommedation Project
 
 # About
 
