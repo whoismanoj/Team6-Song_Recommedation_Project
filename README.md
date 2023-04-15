@@ -16,9 +16,9 @@ The dataset as well as data description is contained in the repository as well.
 
 # Contributors
 
-1. Ng Gim Long (nggi0004@e.ntu.edu.sg) - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
+1. Ng Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
 
-2. Muhammad Nurhidayat Bin Suderman (C220055@e.ntu.edu.sg) - Machine Learning + Prediction
+2. Muhammad Nurhidayat Bin Suderman - Machine Learning + Prediction
 
 # Problem Statement & Aim of Project
 
