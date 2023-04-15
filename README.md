@@ -1,4 +1,4 @@
-# Welcome to GitHub Repository for Song Recommedation Project
+# Welcome to Repository for Team 6's Song Recommedation Project
 
 # About
 
