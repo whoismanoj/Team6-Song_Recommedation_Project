@@ -13,3 +13,5 @@
 5. https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b
 
 6. https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92#:~:text=Click%20on%20the%20dataset%20in,read_csv%20to%20get%20the%20dataframe
+
+7. https://bioturing.medium.com/how-to-read-pca-biplots-and-scree-plots-186246aae063#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs).
