@@ -4,6 +4,10 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 ![image](https://user-images.githubusercontent.com/129975594/232229889-c995f7c2-9578-46f5-98e6-6efec064454e.png)
 
+# Content Breakdown for Team 6 - Project Folder
+
+Pending Updates
+
 # Dataset
 
 The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. 
@@ -43,10 +47,6 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 Pending Updates
 
 # Learning Outcomes
-
-Pending Updates
-
-# Content Breakdown for Team 6 - Project Folder
 
 Pending Updates
 
