@@ -22,7 +22,7 @@ The dataset as well as data description is contained in the repository as well.
 
 # Problem Statement & Aim of Project
 
-Problemv Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
 
 Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
