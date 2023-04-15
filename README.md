@@ -1,8 +1,6 @@
 # Welcome to Repository for Song Recommedation Project
 
-# About
-
-This is the repository containing the work done for SC1015 Miniproject which focus on the recommendation of songs to users based on what they are looking for.
+This is the repository containing the work done by Team 6 for SC1015 Miniproject. We have chosen to focus on the recommendation of songs to users based on what they are looking for & based on their existing playlist as well.
 
 ![image](https://user-images.githubusercontent.com/129975594/232229889-c995f7c2-9578-46f5-98e6-6efec064454e.png)
 
