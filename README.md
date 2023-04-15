@@ -1,4 +1,4 @@
-# Welcome to Repository for Song Recommedation Project
+# Welcome to Song Recommedation Project Repository 
 
 This is the repository containing the work done by Team 6 for SC1015 Miniproject. We have chosen to focus on the recommendation of songs to users based on what they are looking for & based on their existing playlist as well.
 
