@@ -38,7 +38,7 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 5. KMeans & Principal Component Analysis (PCA)
 
-6. Cosine_similarity
+6. Count Vectorisation & Cosine Similarity
 
 # References
 
