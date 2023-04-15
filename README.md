@@ -48,7 +48,11 @@ Pending Updates
 
 # Learning Outcomes
 
-Pending Updates
+1. Collaborating using Google Collab for this project
+
+2. Learning about Count Vectorizer, KMeans and PCA from various sources such as scikit-learn and towardsdatascience.com
+
+3. How to use vectors acquired from Count Vectorizer & use Cosine Similarity to calculate the similarities for the purpose of recommending another song to user
 
 # References
 
@@ -58,10 +62,14 @@ Pending Updates
 
 3. https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 
-4. https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+4. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html
 
-5. https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b
+5. https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
 
-6. https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92#:~:text=Click%20on%20the%20dataset%20in,read_csv%20to%20get%20the%20dataframe
+6. https://towardsdatascience.com/k-means-clustering-and-principal-component-analysis-in-10-minutes-2c5b69c36b6b
 
-7. https://bioturing.medium.com/how-to-read-pca-biplots-and-scree-plots-186246aae063#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs).
+7. https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92#:~:text=Click%20on%20the%20dataset%20in,read_csv%20to%20get%20the%20dataframe
+
+8. https://bioturing.medium.com/how-to-read-pca-biplots-and-scree-plots-186246aae063#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs)
+
+9. https://algoritmaonline.com/song2vec-music-recommender/
