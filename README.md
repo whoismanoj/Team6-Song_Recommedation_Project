@@ -6,8 +6,23 @@ This is the repository containing the work done for SC1015 Miniproject which foc
 
 # Dataset
 
-The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. 
+The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. 
+
 URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+
+The dataset as well as data description is contained in the repository as well.
+
+# Contributors
+
+Ng Gim Long (nggi0004@e.ntu.edu.sg) - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
+
+Muhammad Nurhidayat Bin Suderman (C220055@e.ntu.edu.sg) - Machine Learning + Prediction
+
+# Problem Statement & Aim of Project
+
+To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+
+To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
 # References
 
