@@ -77,3 +77,5 @@ Pending Updates
 9. https://bioturing.medium.com/how-to-read-pca-biplots-and-scree-plots-186246aae063#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs)
 
 10. https://algoritmaonline.com/song2vec-music-recommender/
+
+11. https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs).
