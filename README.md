@@ -81,3 +81,5 @@ Pending Updates
 11. https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/#:~:text=1.,samples%20based%20on%20their%20similarity.&text=PCA%20does%20not%20discard%20any,constructing%20principal%20components%20(PCs).
 
 12. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+13. https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
