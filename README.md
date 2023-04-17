@@ -6,7 +6,7 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 # Content Breakdown for Team 6 - Project Folder
 
-1. Proof of Concept Folder - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size for our project.
+1. Proof of Concept Folder - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size of 20K for our project as the difference in recommendation is minimized as compared to 10K and the time savings as compared to using 30K as the sample size.
 
 # Dataset
 
