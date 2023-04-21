@@ -18,9 +18,9 @@ The dataset as well as data description is contained in the repository as well.
 
 # Contributors
 
-1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction
+1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis & Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
 
-2. Nurhidayat - Machine Learning + Prediction
+2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), presentation slides, presentation video
 
 # Problem Statement & Aim of Project
 
