@@ -45,7 +45,8 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 # Conclusion
 
 1. Outcome of Project
-   - Program that looks for 5 song recommendations based on user input
+   - A Program that looks for 5 song recommendations based on user input
+   - A Program that can recommend songs based on a given user playlist
    - Computes the song recommendations by converting song data into array object & computing the similarity between songs with cosine similarity
 
 2. Constraints faced in the project:
