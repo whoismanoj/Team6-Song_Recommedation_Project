@@ -22,9 +22,9 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 # Problem Statement & Aim of Project
 
-**Problem Statement**: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+**Problem Statement:** To create a mockup feature that can recommend new songs for users to add into their current playlist. 
 
-**Aim**: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
+**Aim:** To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
 # Algorithms / Libraries used for this project
 
@@ -55,7 +55,7 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
    
 3. Future Recommendations:
    - Usage of Spotify API 
-      - Get access to more user related data 
+      - Get access to more user & song related data 
    - Try to reduce the time & space complexity of the program
       - To allow for the use of a bigger dataset
 
