@@ -102,5 +102,3 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 15. https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7
 
 16. https://ted-mei.medium.com/demystify-tf-idf-in-indexing-and-ranking-5c3ae88c3fa0
-
-17. https://github.blog/2013-01-31-relative-links-in-markup-files/
