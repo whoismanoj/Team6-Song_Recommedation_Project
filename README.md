@@ -18,7 +18,7 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 # Content Breakdown for Team 6 - Project Folder
 
-1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description. The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description. The dataset that is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 2. Proof of Concept Folder - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size of 20K for our project as the difference in recommendation is minimized as compared to 10K and the time savings as compared to using 30K as the sample size.
 
