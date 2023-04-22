@@ -12,13 +12,13 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 # Content Breakdown for Team 6 - Project Folder
 
-1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description. The dataset that is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+1. [Dataset Folder](https://github.com/dinong1996/Song_Recommedation_Project/tree/main/Team%206%20-%20Project%20Folder/Dataset) - Contains the dataset that we have chosen for this project as well as the data description. The dataset that is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
-2. Proof of Concept Folder - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size of 20K for our project as the difference in recommendation is minimized as compared to 10K and the time savings as compared to using 30K as the sample size.
+2. [Proof of Concept Folder](https://github.com/dinong1996/Song_Recommedation_Project/tree/main/Team%206%20-%20Project%20Folder/Proof%20of%20Concept) - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size of 20K for our project as the difference in recommendation is minimized as compared to 10K and the time savings as compared to using 30K as the sample size.
 
-3. Reference Photos Folder - Contains the image files that we used in the Jupyter Notebook file to describe the features/methods that we have used to make the project happen.
+3. [Reference Photos Folder](https://github.com/dinong1996/Song_Recommedation_Project/tree/main/Team%206%20-%20Project%20Folder/Reference%20Photo) - Contains the image files that we used in the Jupyter Notebook file to describe the features/methods that we have used to make the project happen.
 
-4. Song Recommendation Miniproject.ipynb - Contains the song recommendation software itself. Within it, it has the Data Visualisation and Exploratory Data Analysis work done for the dataset and the Machine Learning & Prediction portion for the song recommendation software.
+4. [Song Recommendation Miniproject.ipynb](https://github.com/dinong1996/Song_Recommedation_Project/blob/main/Team%206%20-%20Project%20Folder/Song%20Recommendation%20Miniproject.ipynb) - Contains the song recommendation software itself. Within it, it has the Data Visualisation and Exploratory Data Analysis work done for the dataset and the Machine Learning & Prediction portion for the song recommendation software.
 
 # Problem Statement & Aim of Project
 
