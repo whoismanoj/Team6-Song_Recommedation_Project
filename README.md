@@ -50,7 +50,6 @@ Aim: To help listeners discover new music that they can explore and to suggest s
    - Computes the song recommendations by converting song data into array object & computing the similarity between songs with cosine similarity
 
 2. Constraints faced in the project:
-   - Some songs are not available in the dataset even though it is a song that is available in reality 
    - Due to long computational time, we had to could only use at roughly 1/4 of the total dataset for recommendation 
    - Unable to find a suitably big dataset that contains the user data as well as the audio features of the songs for analysis. 
 
