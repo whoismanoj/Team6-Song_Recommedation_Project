@@ -4,6 +4,12 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 ![image](https://user-images.githubusercontent.com/129975594/232229889-c995f7c2-9578-46f5-98e6-6efec064454e.png)
 
+# Contributors
+
+1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis, Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
+
+2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
+
 # Content Breakdown for Team 6 - Project Folder
 
 1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description.
@@ -21,12 +27,6 @@ The dataset that we have used for this project is the Spotify Tracks Dataset fro
 URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 The dataset as well as data description is contained in the repository as well.
-
-# Contributors
-
-1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis, Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
-
-2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
 
 # Problem Statement & Aim of Project
 
