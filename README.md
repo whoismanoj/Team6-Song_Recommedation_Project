@@ -22,9 +22,9 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 # Problem Statement & Aim of Project
 
-Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+**Problem Statement**: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
 
-Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
+**Aim**: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
 # Algorithms / Libraries used for this project
 
@@ -44,7 +44,7 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 # Conclusion
 
-1. Outcome of Project
+1. Outcome of Project:
    - A Program that looks for 5 song recommendations based on user input
    - A Program that can recommend songs based on a given user playlist
    - Computes the song recommendations by converting song data into array object & computing the similarity between songs with cosine similarity
@@ -52,6 +52,12 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 2. Constraints faced in the project:
    - Due to long computational time, we had to could only use at roughly 1/4 of the total dataset for recommendation 
    - Unable to find a suitably big dataset that contains the user data as well as the audio features of the songs for analysis
+   
+3. Future Recommendations:
+   - Usage of Spotify API 
+      - Get access to more user related data 
+   - Try to reduce the time & space complexity of the program
+      - To allow for the use of a bigger dataset
 
 # Learning Outcomes
 
