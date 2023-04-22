@@ -10,12 +10,6 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
 
-# Problem Statement & Aim of Project
-
-Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
-
-Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
-
 # Content Breakdown for Team 6 - Project Folder
 
 1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description. The dataset that is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
@@ -25,6 +19,12 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 3. Reference Photos Folder - Contains the image files that we used in the Jupyter Notebook file to describe the features/methods that we have used to make the project happen.
 
 4. Song Recommendation Miniproject.ipynb - Contains the song recommendation software itself. Within it, it has the Data Visualisation and Exploratory Data Analysis work done for the dataset and the Machine Learning & Prediction portion for the song recommendation software.
+
+# Problem Statement & Aim of Project
+
+Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+
+Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
 # Algorithms / Libraries used for this project
 
