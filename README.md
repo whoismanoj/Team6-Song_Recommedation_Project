@@ -20,7 +20,7 @@ The dataset as well as data description is contained in the repository as well.
 
 1. Gim Long - Data Extraction, Cleaning & Visualisation, Exploratory Data Analysis, Machine Learning + Prediction (Song Recommendation based on a song input), Presentation Slides, Presentation Video
 
-2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), presentation slides, presentation video
+2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
 
 # Problem Statement & Aim of Project
 
@@ -42,6 +42,8 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 6. Count Vectorisation & Cosine Similarity
 
+7. TfidfVectorizer
+
 # Conclusion
 
 1. Outcome of Project
@@ -51,7 +53,7 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 2. Constraints faced in the project:
    - Due to long computational time, we had to could only use at roughly 1/4 of the total dataset for recommendation 
-   - Unable to find a suitably big dataset that contains the user data as well as the audio features of the songs for analysis. 
+   - Unable to find a suitably big dataset that contains the user data as well as the audio features of the songs for analysis
 
 # Learning Outcomes
 
@@ -66,6 +68,8 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 5. Understanding how to use Cosine Similarity to calculate the similarities of different songs by using the vectors for the song
 
 6. Learning how to use plotly.express to plot graphs to represent audio features and use it to intepret what the data means
+
+7. Learning how to use TfidfVectorizer to convert collection of raw documents to a matrix of TF-IDF features from various sources such as scikit-learn
 
 # References
 
@@ -95,4 +99,8 @@ Aim: To help listeners discover new music that they can explore and to suggest s
 
 13. https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
 
-14.  https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7
+14. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+
+15. https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7
+
+16. https://ted-mei.medium.com/demystify-tf-idf-in-indexing-and-ranking-5c3ae88c3fa0
