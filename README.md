@@ -10,29 +10,21 @@ This is the repository containing the work done by Team 6 for SC1015 Miniproject
 
 2. Nurhidayat - Machine Learning + Prediction (Song recommendation based on a playlist), Presentation Slides, Presentation Video
 
+# Problem Statement & Aim of Project
+
+Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
+
+Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
+
 # Content Breakdown for Team 6 - Project Folder
 
-1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description.
+1. Dataset Folder - Contains the dataset that we have chosen for this project as well as the data description. The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 2. Proof of Concept Folder - Contains the files titled "Proof of Concept XXK.ipynb" that we have done. The aim was to see what will be difference when we use different sample sizes of 10K, 20K, 30K, 40K and 50K. Using the information from this exercise, we chose the appropriate sample size of 20K for our project as the difference in recommendation is minimized as compared to 10K and the time savings as compared to using 30K as the sample size.
 
 3. Reference Photos Folder - Contains the image files that we used in the Jupyter Notebook file to describe the features/methods that we have used to make the project happen.
 
 4. Song Recommendation Miniproject.ipynb - Contains the song recommendation software itself. Within it, it has the Data Visualisation and Exploratory Data Analysis work done for the dataset and the Machine Learning & Prediction portion for the song recommendation software.
-
-# Dataset
-
-The dataset that we have used for this project is the Spotify Tracks Dataset from Kaggle. The dataset is owned by Maharshi Pandya. 
-
-URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
-
-The dataset as well as data description is contained in the repository as well.
-
-# Problem Statement & Aim of Project
-
-Problem Statement: To create a mockup feature that can recommend new songs for users to add into their current playlist. 
-
-Aim: To help listeners discover new music that they can explore and to suggest songs that align with their musical interests based on their listening history and existing playlists.
 
 # Algorithms / Libraries used for this project
 
